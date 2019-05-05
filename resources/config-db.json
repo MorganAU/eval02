@@ -1,0 +1,10 @@
+{
+	"configs":{
+		"host":"localhost",
+		"dbname":"exercices",
+		"port":"3306",
+		"charset":"utf8"
+	},
+	"login":"root",
+	"pass":""
+}
